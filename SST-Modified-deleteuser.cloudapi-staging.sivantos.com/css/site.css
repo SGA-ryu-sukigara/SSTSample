@@ -2,7 +2,10 @@ body, html {
     margin: 0;
     padding: 0;
     height: 100%;
+/*    
     font-family: "SSTPaneuropeanRoman", "Yu Gothic Medium", "YuGothic", sans-serif;
+*/
+    font-family: "SSTPaneuropeanRoman", serif;
 }
 
 .container {
@@ -119,7 +122,10 @@ p {
 }
 
 .svgButton {
+/*
     font-family: "SSTPaneuropeanRoman", "Yu Gothic Medium", "YuGothic", sans-serif;
+*/
+    font-family: "SSTPaneuropeanRoman", serif;
     background-color: transparent; /* Make the background transparent */
     border: none; /* Remove the border */
     padding: 0; /* Remove any default padding */
@@ -153,7 +159,10 @@ li {
 }
 
 .Button {
+    /*
     font-family: "SSTPaneuropeanRoman", "Yu Gothic Medium", "YuGothic", sans-serif;
+    */
+    font-family: "SSTPaneuropeanRoman", serif;
     background-color: #2D75C7;
     height: 58px;
     cursor: pointer;
@@ -279,7 +288,10 @@ li {
 }
 
 .closeButton {
+    /*
     font-family: "SSTPaneuropeanRoman", "Yu Gothic Medium", "YuGothic", sans-serif;
+    */
+    font-family: "SSTPaneuropeanRoman", serif;
     height: 58px;
     width: 279px;
     background-color: #2D75C7;
