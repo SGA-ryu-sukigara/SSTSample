@@ -1,8 +1,10 @@
 
 
 /* @import must be at top of file, otherwise CSS will not work */
+/*
 @import url("https://cdn.fonts.net/t/1.css?apiType=css&projectid=5bd02019-e561-4066-a783-659635d218df");
-  
+*/
+
 @font-face {
   font-family: "SSTPaneuropeanBold";
   font-style: normal;
